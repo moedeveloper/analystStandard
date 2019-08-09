@@ -1,0 +1,16 @@
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\SKF.RS.STB.Analyst.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\SKF.RS.STB.Analyst.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\SOAPCon.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\SOAPCon.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\SOAPCon.xml
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\obj\Debug\SKF.RS.STB.Analyst.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\obj\Debug\SKF.RS.STB.Analyst.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\obj\Debug\SKF.RS.STB.Analyst.csprojResolveAssemblyReference.cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\Newtonsoft.Json.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\Newtonsoft.Json.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\Debug\Newtonsoft.Json.xml

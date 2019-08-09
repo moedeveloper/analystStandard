@@ -1,0 +1,266 @@
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.AddOns.STB.Analyst.dll
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.AddOns.STB.DBTools.dll
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.AddOns.STB.Generic.dll
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\Documents and Settings\WS7781\My Documents\Dropbox2\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.dll
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.pdb
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\Users\ws7781\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\Oracle.DataAccess.dll
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.dll
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.pdb
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Dropbox\Projetos\CDR - Implantação @DS\@A Standard Points\@A Standard Points\bin\Debug\Oracle.DataAccess.dll
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.dll
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.pdb
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\Dropbox\Dev\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.dll
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.pdb
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\Box Sync\Dev\Customized\CGA\@A Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\SKF.RS.STB.Analyst.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Abril 2016\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\Box Sync\Dev\Customized\CGA\@Analyst - Application - Standard Points - Versão Ajustada - Junho 2016\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - Fevereiro 2017\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - Application - Standard Points - Versão Ajustada - V2.2\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.3\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.4\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.5\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojAssemblyReference.cache
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\bin\Debug\@A Standard Points.exe
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\bin\Debug\@A Standard Points.pdb
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.cache
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.CoreCompileInputs.cache
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.6\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.CopyComplete
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\bin\Debug\@A Standard Points.exe
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\bin\Debug\@A Standard Points.pdb
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojAssemblyReference.cache
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.cache
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.CoreCompileInputs.cache
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.CopyComplete
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+V:\Vibration Analysis\Documents\Support Material\Scipts VASS\VASS REV2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojResolveAssemblyReference.cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.Cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\bin\Debug\@A Standard Points.exe
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\bin\Debug\@A Standard Points.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\bin\Debug\SKF.RS.STB.DBTools.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Customized\@Analyst - App - Standard Points - Versão Ajustada - V2.7\@A Standard Points\bin\Debug\SKF.RS.STB.Generic.pdb
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\@A Standard Points.exe.config
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\@A Standard Points.exe.manifest
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\@A Standard Points.application
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\@A Standard Points.exe
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\@A Standard Points.pdb
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\Newtonsoft.Json.dll
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\SKF.Standard.Points.Entity.dll
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\SKF.Standard.Points.Update.dll
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\Dapper.dll
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\SKF.Standard.Points.Entity.pdb
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\SKF.Standard.Points.Update.pdb
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\Newtonsoft.Json.xml
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\Dapper.xml
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csprojAssemblyReference.cache
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.GenerateResource.cache
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.CoreCompileInputs.cache
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.exe.manifest
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.application
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.CopyComplete
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb

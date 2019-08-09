@@ -1,0 +1,6 @@
+E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Entity\bin\Debug\SKF.Standard.Points.Entity.dll
+E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Entity\bin\Debug\SKF.Standard.Points.Entity.pdb
+E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Entity\obj\Debug\SKF.Standard.Points.Entity.csprojAssemblyReference.cache
+E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Entity\obj\Debug\SKF.Standard.Points.Entity.csproj.CoreCompileInputs.cache
+E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Entity\obj\Debug\SKF.Standard.Points.Entity.dll
+E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Entity\obj\Debug\SKF.Standard.Points.Entity.pdb

@@ -1,0 +1,10 @@
+C:\Documents and Settings\g006197\Local Settings\Application Data\Temporary Projects\SKF.RS.AddOns.STB.Generic\bin\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Documents and Settings\g006197\Local Settings\Application Data\Temporary Projects\SKF.RS.AddOns.STB.Generic\bin\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Documents and Settings\g006197\Local Settings\Application Data\Temporary Projects\SKF.RS.AddOns.STB.Generic\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\g006197\Local Settings\Application Data\Temporary Projects\SKF.RS.AddOns.STB.Generic\obj\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Documents and Settings\g006197\Local Settings\Application Data\Temporary Projects\SKF.RS.AddOns.STB.Generic\obj\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\Release\ResolveAssemblyReference.cache
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\Release\SKF.RS.AddOns.STB.Generic.pdb

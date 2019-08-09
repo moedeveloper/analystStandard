@@ -1,0 +1,15 @@
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x86\Debug\SKF.RS.AddOns.STB.DBTools.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x86\Debug\SKF.RS.AddOns.STB.DBTools.pdb
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x86\Debug\Interop.ADODB.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x86\Debug\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x86\Debug\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\x86\Debug\SKF.RS.AddOns.STB.DBTools.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\x86\Debug\SKF.RS.AddOns.STB.DBTools.pdb
+C:\Vagner\Dropbox\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x86\Debug\SKF.RS.AddOns.STB.DBTools.dll
+C:\Vagner\Dropbox\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x86\Debug\SKF.RS.AddOns.STB.DBTools.pdb
+C:\Vagner\Dropbox\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x86\Debug\SKF.RS.AddOns.STB.Generic.dll
+C:\Vagner\Dropbox\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x86\Debug\SKF.RS.AddOns.STB.Generic.pdb
+C:\Vagner\Dropbox\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Vagner\Dropbox\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\x86\Debug\SKF.RS.AddOns.STB.DBTools.dll
+C:\Vagner\Dropbox\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\x86\Debug\SKF.RS.AddOns.STB.DBTools.pdb

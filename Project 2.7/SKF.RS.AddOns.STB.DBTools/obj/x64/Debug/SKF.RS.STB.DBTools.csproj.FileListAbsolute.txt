@@ -1,0 +1,7 @@
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x64\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x64\Debug\SKF.RS.STB.DBTools.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x64\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x64\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\x64\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\x64\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\x64\Debug\SKF.RS.STB.DBTools.pdb

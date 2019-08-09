@@ -1,0 +1,6 @@
+[Analyst]
+DBType=2
+DBName=(local)\SQLEXPRESS2
+InitialCatalog=SKFUser
+User=SKFUser1
+Password=cm

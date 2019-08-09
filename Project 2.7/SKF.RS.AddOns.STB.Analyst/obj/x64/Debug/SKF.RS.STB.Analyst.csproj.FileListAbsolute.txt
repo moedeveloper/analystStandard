@@ -1,0 +1,13 @@
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\SKF.RS.STB.Analyst.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\SKF.RS.STB.Analyst.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\SKF.RS.STB.DBTools.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\SOAPCon.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\FirebirdSql.Data.FirebirdClient.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\SKF.RS.STB.DBTools.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\SOAPCon.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\bin\x64\Debug\SOAPCon.xml
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\obj\x64\Debug\SKF.RS.STB.Analyst.csprojResolveAssemblyReference.cache
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\obj\x64\Debug\SKF.RS.STB.Analyst.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Analyst\SKF.RS.AddOns.STB.Analyst\obj\x64\Debug\SKF.RS.STB.Analyst.pdb

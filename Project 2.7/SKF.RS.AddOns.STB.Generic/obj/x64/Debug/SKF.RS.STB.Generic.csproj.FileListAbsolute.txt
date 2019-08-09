@@ -1,0 +1,4 @@
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x64\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x64\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x64\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x64\Debug\SKF.RS.STB.Generic.pdb

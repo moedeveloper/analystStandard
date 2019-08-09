@@ -1,0 +1,5 @@
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x64\Release\SKF.RS.STB.Generic.dll
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x64\Release\SKF.RS.STB.Generic.pdb
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x64\Release\SKF.RS.STB.Generic.dll
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x64\Release\SKF.RS.STB.Generic.pdb
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x64\Release\SKF.RS.STB.Generic.csprojResolveAssemblyReference.cache

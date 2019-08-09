@@ -1,0 +1,15 @@
+C:\Documents and Settings\g006197\Local Settings\Application Data\Temporary Projects\SKF.RS.AddOns.STB.DBTools\obj\Release\ResolveAssemblyReference.cache
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\Release\SKF.RS.AddOns.STB.DBTools.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\Release\SKF.RS.AddOns.STB.DBTools.pdb
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\Release\ResolveAssemblyReference.cache
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\Release\SKF.RS.AddOns.STB.DBTools.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\Release\SKF.RS.AddOns.STB.DBTools.pdb
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\Release\SKF.RS.AddOns.STB.DBTools.dll
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\Release\SKF.RS.AddOns.STB.DBTools.pdb
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\bin\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\Release\ResolveAssemblyReference.cache
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\Release\SKF.RS.AddOns.STB.DBTools.dll
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.DBTools\SKF.RS.AddOns.STB.DBTools\obj\Release\SKF.RS.AddOns.STB.DBTools.pdb

@@ -1,0 +1,5 @@
+C:\Documents and Settings\WS7781\Local Settings\Application Data\Temporary Projects\@A Standard Point - SCP\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\WS7781\Local Settings\Application Data\Temporary Projects\@A Standard Point - SCP\obj\x86\Debug\_A_Standard_Point___SCP.Form1.resources
+C:\Documents and Settings\WS7781\Local Settings\Application Data\Temporary Projects\@A Standard Point - SCP\obj\x86\Debug\_A_Standard_Point___SCP.Properties.Resources.resources
+C:\Documents and Settings\WS7781\Local Settings\Application Data\Temporary Projects\@A Standard Point - SCP\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Documents and Settings\WS7781\Local Settings\Application Data\Temporary Projects\@A Standard Point - SCP\obj\x86\Debug\GenerateResource.write.1.tlog

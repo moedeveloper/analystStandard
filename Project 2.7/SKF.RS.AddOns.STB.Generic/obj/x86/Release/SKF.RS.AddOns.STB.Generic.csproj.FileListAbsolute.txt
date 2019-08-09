@@ -1,0 +1,20 @@
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Eng Sistemas\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Desenvolvimento\SKF @STB\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Desenvolvimento\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dropbox\SKF\Desenvolvimento\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Desenvolvimento\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Desenvolvimento\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Release\SKF.RS.AddOns.STB.Generic.dll
+C:\Dropbox\SKF\Desenvolvimento\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Release\SKF.RS.AddOns.STB.Generic.pdb
+C:\Dropbox\SKF\Dev\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Dropbox\SKF\Dev\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Release\SKF.RS.STB.Generic.dll
+C:\Dropbox\SKF\Dev\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Release\SKF.RS.STB.Generic.pdb
+C:\Dropbox\SKF\Dev\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\SKF.RS.STB.Generic.dll
+C:\Dropbox\SKF\Dev\Projects\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Release\SKF.RS.STB.Generic.pdb

@@ -1,0 +1,25 @@
+C:\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.dll
+C:\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.dll
+C:\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\Users\ws7781\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.dll
+C:\Users\ws7781\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\Users\ws7781\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\ws7781\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.dll
+C:\Users\ws7781\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\Dropbox\Dev\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.csprojResolveAssemblyReference.cache
+C:\Users\RU6029\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.dll
+C:\Users\RU6029\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\Users\RU6029\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.csprojResolveAssemblyReference.cache
+C:\Users\RU6029\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.dll
+C:\Users\RU6029\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.dll
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.csprojResolveAssemblyReference.cache
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.dll
+C:\Box Sync\Dev\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\bin\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.dll
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.pdb
+C:\OneDrive\OneDrive - SKF\Dev_Novo\Libraries\SKF.RS.AddOns.STB.Generic\SKF.RS.AddOns.STB.Generic\obj\x86\Debug\SKF.RS.STB.Generic.csprojResolveAssemblyReference.cache
