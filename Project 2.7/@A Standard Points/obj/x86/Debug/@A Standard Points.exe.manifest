@@ -49,7 +49,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>NAQwsh0Fy7G0jNdi6trUR6hR2kltzEKCIxU4tVxGx2c=</dsig:DigestValue>
+        <dsig:DigestValue>EacX1X3Op1eil2LaQt7qNTwRJ3HuGybSaepa2c7r0hw=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -62,6 +62,18 @@
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
         <dsig:DigestValue>2vLpGQOVROCg/vu4juSZhHHakH8x86seI8FY1WwSiBo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FirebirdSql.Data.FirebirdClient.dll" size="694784">
+      <assemblyIdentity name="FirebirdSql.Data.FirebirdClient" version="2.6.5.0" publicKeyToken="3750ABCC3150B00C" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>RSYW3yl7sHlYt01joALLn+b4F/kBgY/RZmQ/+vC2hsE=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -121,7 +133,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>6WB+aecA1vJQYVyUA4wHvzt2ylq3ga7+nMIeJ0q9f3o=</dsig:DigestValue>
+        <dsig:DigestValue>dVJEf+afQ9AJ/OdRukrfXQ5kHGtNbx5pKR0emdwsBv8=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>
@@ -133,7 +145,7 @@
           <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
         </dsig:Transforms>
         <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
-        <dsig:DigestValue>OZiWygGk0r+3LGB4jyOK0c4EwCTd/G77BbL0n01VZBs=</dsig:DigestValue>
+        <dsig:DigestValue>u5nmivl+EZe4yDhfga1jdK9t4mABdBpuZUramP/9axA=</dsig:DigestValue>
       </hash>
     </dependentAssembly>
   </dependency>

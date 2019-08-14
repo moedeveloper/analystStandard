@@ -28,7 +28,8 @@ namespace SKF.Standard.Points.Update
         public List<EstimateName> ParseStandardNames(IEnumerable<TreeElem> measPoints)
         {
             return (from point in measPoints let parsedName = ParseStandardName(point.NAME) 
-                select new EstimateName() {PointId = point.TREEELEMID, NewName = parsedName, OldName = point.NAME, HierarchyId = point.HIERARCHYID}).ToList();
+                select new EstimateName() {PointId = point.TREEELEMID, NewName = parsedName, OldName = point.NAME,
+                    HierarchyId = point.HIERARCHYID, ReferenceId = point.REFERENCEID}).ToList();
         }
 
         private string ParseStandardName(string str)
@@ -189,12 +190,13 @@ namespace SKF.Standard.Points.Update
         {
             return _connection.Query<TreeElem>($"SELECT DISTINCT * FROM TREEELEM WHERE CONTAINERTYPE=4 AND TBLSETID={tblSetId} and Parentid!=2147000000 AND HierarchyId={workSpaceId} AND ELEMENTENABLE = 1");
         }
-
-        public void UpdatePointName(List<EstimateName> toUpdate)
+        public void UpdatePoint(EstimateName elem)
         {
-            foreach (var elem in toUpdate)
+            _connection.Execute($"UPDATE TREEELEM SET NAME ='{elem.NewName}' WHERE NAME='{elem.OldName}' AND HIERARCHYID={elem.HierarchyId} AND TREEELEMID={elem.PointId}");
+
+            if (elem.ReferenceId > 0)
             {
-                _connection.Execute($"UPDATE TREEELEM SET NAME ='{elem.NewName}' WHERE NAME='{elem.OldName}' AND HIERARCHYID={elem.HierarchyId}");
+                _connection.Execute($"UPDATE TREEELEM SET NAME ='{elem.NewName}' WHERE NAME='{elem.OldName}' AND HIERARCHYID={elem.HierarchyId} AND TREEELEMID={elem.ReferenceId}");
             }
         }
     }

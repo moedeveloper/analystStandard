@@ -12,3 +12,5 @@ E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Update\obj\Debug\SKF.Stan
 E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Update\obj\Debug\SKF.Standard.Points.Update.csproj.CopyComplete
 E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Update\obj\Debug\SKF.Standard.Points.Update.dll
 E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Update\obj\Debug\SKF.Standard.Points.Update.pdb
+E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Update\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+E:\Standard point_ SKF\Project 2.7\SKF.Standard.Points.Update\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb

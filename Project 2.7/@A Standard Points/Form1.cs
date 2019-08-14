@@ -16,6 +16,7 @@ using System.Reflection.Emit;
 using SKF.Standard.Points.Entity;
 using SKF.Standard.Points.Update;
 using Point = System.Drawing.Point;
+using TreeElem = SKF.Standard.Points.Entity.TreeElem;
 
 
 namespace _A_Standard_Point___SCP
@@ -3187,7 +3188,6 @@ namespace _A_Standard_Point___SCP
 
         private void button5_Click(object sender, EventArgs e)
         {
-            _newNamesToUpdateList = new List<EstimateName>();
             
             button5.Enabled = false;
 
@@ -3197,53 +3197,65 @@ namespace _A_Standard_Point___SCP
             _standardPoint = new StandardPointName(_analystDB);
 
 
+
             if (workspace_checkbox.Checked && txtWS.Text != string.Empty)
             {
                 dynamic selectedWorkSpace = workspace_comboBox.Items[workspace_comboBox.SelectedIndex];
                 uint workSpaceId = UInt32.Parse(selectedWorkSpace.Value.ToString());
 
                 var workSpacePoints = _standardPoint.GetWorkSpacePoints(workSpaceId, tblSetId);
-                _newNamesToUpdateList = _standardPoint.ParseStandardNames(workSpacePoints);
-                
-                UpdateGridView(_newNamesToUpdateList);
+                //_newNamesToUpdateList = _standardPoint.ParseStandardNames(workSpacePoints);
+
+                UpdateGridView(workSpacePoints);
             }
             else
             {
                 var measPoints = _standardPoint.GetPointsByTableSetId(tblSetId);
-                _newNamesToUpdateList= _standardPoint.ParseStandardNames(measPoints);
-                UpdateGridView(_newNamesToUpdateList);
+                //_newNamesToUpdateList = _standardPoint.ParseStandardNames(measPoints);
+                UpdateGridView(measPoints);
             }
 
             selectAllButton.Enabled = true;
             unselectAllButton.Enabled = true;
         }
 
-        private void UpdateGridView(List<EstimateName> estPoints)
-        {            
+        private void UpdateGridView(IEnumerable<TreeElem> treeElem)
+        {
+            _newNamesToUpdateList = new List<EstimateName>();
+
             DataTable dataTable = new DataTable();
-            dataTable.Columns.AddRange(new DataColumn[5]
+            dataTable.Columns.AddRange(new DataColumn[6]
             {
                 new DataColumn("ElementID", typeof(uint)),
                 new DataColumn("Old Name", typeof(string)),
                 new DataColumn("New Estimated Name", typeof(string)),
                 new DataColumn("HierarchyId", typeof(uint)),
-                new DataColumn("Select", typeof(bool)),                
+                new DataColumn("Select", typeof(bool)),
+                new DataColumn("RefId", typeof(uint)),
             });
+
+            // workspace already handled in button5_Click method
 
             if (autoEstimateCheckBox.Checked)
             {
-                foreach (var pt in estPoints)
+                _newNamesToUpdateList = _standardPoint.ParseStandardNames(treeElem);
+                // we have 2 cases hierarchy ID might be 0 if not checked
+                // not 0 if checked
+                foreach (var pt in _newNamesToUpdateList)
                 {
-                    dataTable.Rows.Add(pt.PointId, pt.OldName, pt.NewName, pt.HierarchyId, false);
+                    dataTable.Rows.Add(pt.PointId, pt.OldName,
+                        pt.NewName, pt.HierarchyId, false, pt.ReferenceId);
                 }
             }
             else
             {
-                foreach (var pt in estPoints)
+                foreach (var pt in treeElem)
                 {
-                    dataTable.Rows.Add(pt.PointId, pt.OldName, pt.HierarchyId, "", false);
+                    dataTable.Rows.Add(pt.TREEELEMID, pt.NAME,
+                        "", pt.HIERARCHYID, false, pt.REFERENCEID);
                 }
             }
+
 
             estimation_dataGridView.DataSource = dataTable;
             estimation_dataGridView.Columns[1].AutoSizeMode = DataGridViewAutoSizeColumnMode.Fill;
@@ -3259,13 +3271,12 @@ namespace _A_Standard_Point___SCP
             estimation_dataGridView.Columns[1].ReadOnly = true;
             estimation_dataGridView.Columns[2].ReadOnly = false;
             estimation_dataGridView.Columns[3].Visible = false;
+            estimation_dataGridView.Columns[5].Visible = false;
             
-            //estimation_dataGridView.ColumnHeaderMouseClick += new DataGridViewCellMouseEventHandler(checkboxHeader_CheckedChanged);
-
             estimation_dataGridView.AllowUserToAddRows = false;
             estimation_dataGridView.AllowUserToDeleteRows = false;
-            
         }
+        
         
         private void tbl_setCombobox_SelectedIndexChanged(object sender, EventArgs e)
         {
@@ -3442,6 +3453,7 @@ namespace _A_Standard_Point___SCP
                 var elementId = row.Cells["ElementID"].Value;
                 var elementName = row.Cells["Old Name"].Value;
                 var hierarchyId = row.Cells["HierarchyId"].Value;
+                var refId = row.Cells["RefId"].Value;
 
                 lableToUpdate.Text = elementName.ToString();
                 lableToUpdate.Visible = true;
@@ -3475,13 +3487,16 @@ namespace _A_Standard_Point___SCP
             var elementNewName = cells["New Estimated Name"].Value;
             var hierarchyId = uint.Parse(cells["HierarchyId"].Value.ToString());
             bool select = (bool) cells["Select"].Value;
+            var refId = uint.Parse(cells["RefId"].Value.ToString());
+
 
             return new EstimateName()
             {
                 PointId = elementId,
                 OldName = elementName.ToString(),
                 NewName = elementNewName.ToString(),
-                HierarchyId = hierarchyId
+                HierarchyId = hierarchyId,
+                ReferenceId = refId,
             };
         }
 
@@ -3517,11 +3532,18 @@ namespace _A_Standard_Point___SCP
                     PointId = uint.Parse(dg.Cells["ElementID"].Value.ToString()),
                     OldName = dg.Cells["Old Name"].Value.ToString(),
                     NewName = dg.Cells["New Estimated Name"].Value.ToString(),
-                    HierarchyId = uint.Parse(dg.Cells["HierarchyId"].Value.ToString())
+                    HierarchyId = uint.Parse(dg.Cells["HierarchyId"].Value.ToString()),
+                    ReferenceId = uint.Parse(dg.Cells["RefId"].Value.ToString())
                 });
             }
 
-            _standardPoint.UpdatePointName(selectedListToUpdate);
+            foreach (var pt in selectedListToUpdate)
+            {
+                if (pt.NewName!=string.Empty)
+                {
+                    _standardPoint.UpdatePoint(pt);
+                }
+            }
         }
 
         private void autoEstimateCheckBox_CheckedChanged(object sender, EventArgs e)

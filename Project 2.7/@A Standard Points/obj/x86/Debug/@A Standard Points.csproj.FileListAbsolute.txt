@@ -264,3 +264,5 @@ E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard 
 E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.csproj.CopyComplete
 E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.exe
 E:\Standard point_ SKF\Project 2.7\@A Standard Points\obj\x86\Debug\@A Standard Points.pdb
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.dll
+E:\Standard point_ SKF\Project 2.7\@A Standard Points\bin\Debug\FirebirdSql.Data.FirebirdClient.pdb
